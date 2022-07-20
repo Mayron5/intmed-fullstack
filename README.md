@@ -4,8 +4,8 @@
 
 O deploy foi feito no Azure.
 
-Front: https://intmed-front.azurewebsites.net/entrar
-Back: https://intmed-back.azurewebsites.net
+- Front: https://intmed-front.azurewebsites.net/entrar
+- Back: https://intmed-back.azurewebsites.net
 
 
 ##Usando a aplicação
