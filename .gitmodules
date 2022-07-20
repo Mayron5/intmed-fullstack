@@ -1,0 +1,6 @@
+[submodule "intmed-back"]
+	path = intmed-back
+	url = https://github.com/Mayron5/intmed-back.git
+[submodule "intmed-front"]
+	path = intmed-front
+	url = https://github.com/Mayron5/intmed-front.git
