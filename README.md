@@ -1,6 +1,6 @@
 # Teste prático Intmed.
 
-##Links
+## Links
 
 O deploy foi feito no Azure.
 
@@ -8,6 +8,6 @@ O deploy foi feito no Azure.
 - Back: https://intmed-back.azurewebsites.net
 
 
-##Usando a aplicação
+## Usando a aplicação
 
 Para conseguir usar o projeto localmente clone o repositório e siga o passo a passo para a instalação das dependência do frontend e do backend.
